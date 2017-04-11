@@ -3,7 +3,7 @@ html body{
   padding:0;
   margin: 0;
 }
-#header{
+nav{
   z-index:1000;
   background-color:white;
   position:fixed;
@@ -12,27 +12,27 @@ html body{
   height:120px;
   width:1568px;
 }
-#header img{
+nav img{
   margin:10px 300px 25px 400px;
   float:left;
   height:100px;
   width:200px;
 }
-#header ul{
+nav ul{
   list-style:none;
 }
-#header ul li{
+nav ul li{
   float:left;
   margin:40px 60px 0px;
 }
-#header ul li a{
+nav ul li a{
   font-size:0.9em;
   font-weight:lighter;
   color:black;
   text-decoration:none;
   transition:color 0.5s;
 }
-#header ul li a:hover{
+nav ul li a:hover{
   color:orange;
 }
 #title{
