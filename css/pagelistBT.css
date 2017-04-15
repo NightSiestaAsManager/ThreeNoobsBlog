@@ -1,0 +1,25 @@
+#navImg{
+  height:110px;
+  width:200px;
+    margin:10px 300px 25px 200px;
+}
+.navbar-toggler{
+  margin-bottom:-20px;
+}
+.navbar-nav{
+  padding-top: 30px;
+}
+.list-unstyled{
+  margin-right: 80px;
+}
+.nav-item{
+    padding-left:40px;
+}
+.list-unstyled a{
+  color:black;
+  transition: color 0.5s;
+  word-wrap:normal;
+}
+.list-unstyled a:hover{
+  color:orange;
+}
