@@ -23,3 +23,61 @@
 .list-unstyled a:hover{
   color:orange;
 }
+#catsContainer{
+  margin-top:50px;
+  margin-bottom: 60px;
+}
+#mainContainer{
+  padding-top:30px;
+  padding-left:50px;
+  padding-right:50px;
+  background-color:rgb(227,227,227);
+}
+#mainContainer img{
+  width:100%;
+}
+.box {
+  margin-bottom: 10px;
+  float: left;
+  width: 300px;
+}
+.item a{
+  text-decoration: none;
+}
+.block{
+  width:300px;
+}
+.card-columns a{
+  color:black;
+  text-decoration: none;
+}
+.card img{
+  background-color: rgb(227,227,227);
+  width:100%;
+  height:auto;
+  padding:50px;
+  padding-bottom: 0px;
+  transition: 1s;
+}
+.card-block{
+  border-left: 50px solid rgb(227,227,227);
+  border-right:50px solid rgb(227,227,227);
+  border-top: 1px solid rgb(227,227,227);
+  transition:0.8s;
+}
+.card-block:hover{
+  color:white;
+  background-color: orange;
+}
+.card-columns{
+  background-color: rgb(227,227,227);
+  padding:60px;
+}
+.modal-body img{
+  text-align: center;
+    width:600px;
+    height:600px;
+}
+.ADfooter{
+  width:100%;
+}
